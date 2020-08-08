@@ -2,6 +2,8 @@ import sys
 import os
 from PIL import Image
 
+# Working on learning Github
+
 # Grab the first and second argument
 print('Number of arguments: ', len(sys.argv))
 print('Argument 0 is: ', str(sys.argv[0]))
