@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": ".venv\\Scripts\\python.exe"
+    "python.pythonPath": "Scripts\\python.exe",
+    "cSpell.words": [
+        "Gconverter",
+        "Pokedex"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
